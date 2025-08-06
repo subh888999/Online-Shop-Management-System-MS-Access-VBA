@@ -51,7 +51,7 @@ This project is designed as a **major academic project** and can also be used as
 ## 🖥 Database Relationship Diagram
 Below is the Entity Relationship Diagram (ERD) showing the tables and their relationships.
 
-![Database Relationship Diagram]( tablerelationship.png )
+![Database Relationship Diagram]( table relationship.png )
 
 ---
 
